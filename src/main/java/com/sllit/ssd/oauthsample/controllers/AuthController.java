@@ -20,9 +20,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.UUID;
 
-/**
- * Created by dinukshakandasamanage on 10/9/18.
- */
+
 @Controller("/")
 public class AuthController {
 
