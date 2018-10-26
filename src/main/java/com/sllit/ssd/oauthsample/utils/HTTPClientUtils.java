@@ -18,9 +18,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
-/**
- * Created by dinukshakandasamanage on 10/9/18.
- */
+
 public class HTTPClientUtils {
 
     public static String executePost(String targetURL, Map params) throws IOException {
