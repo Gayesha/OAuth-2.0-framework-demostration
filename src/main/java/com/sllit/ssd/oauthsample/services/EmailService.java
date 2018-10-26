@@ -13,9 +13,7 @@ import java.lang.reflect.Type;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by dinukshakandasamanage on 10/10/18.
- */
+
 @Service
 public class EmailService {
 
