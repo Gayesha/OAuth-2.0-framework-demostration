@@ -1,8 +1,5 @@
 package com.sllit.ssd.oauthsample.constants;
 
-/**
- * Created by dinukshakandasamanage on 10/9/18.
- */
 public class PropertyConstants {
 
     public static final String APP_PROPERTIES_FILE = "src/main/resources/application.properties";
