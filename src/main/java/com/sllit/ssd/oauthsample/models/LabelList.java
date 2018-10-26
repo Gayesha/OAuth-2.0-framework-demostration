@@ -2,9 +2,7 @@ package com.sllit.ssd.oauthsample.models;
 
 import java.util.List;
 
-/**
- * Created by dinukshakandasamanage on 10/10/18.
- */
+
 public class LabelList {
 
     private List<Label> labels;
