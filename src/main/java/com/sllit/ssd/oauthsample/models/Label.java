@@ -1,8 +1,6 @@
 package com.sllit.ssd.oauthsample.models;
 
-/**
- * Created by dinukshakandasamanage on 10/10/18.
- */
+
 public class Label {
     private String id;
     private String name;
