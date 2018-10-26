@@ -5,9 +5,7 @@ import org.springframework.stereotype.Service;
 
 import javax.servlet.http.Cookie;
 
-/**
- * Created by dinukshakandasamanage on 10/10/18.
- */
+
 
 @Service
 public class AuthenticationService {
