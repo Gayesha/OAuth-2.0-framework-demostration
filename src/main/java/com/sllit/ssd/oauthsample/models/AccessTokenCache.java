@@ -3,9 +3,7 @@ package com.sllit.ssd.oauthsample.models;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Created by dinukshakandasamanage on 10/10/18.
- */
+
 public class AccessTokenCache {
 
     private Map<String, String> userAccessTokens;
