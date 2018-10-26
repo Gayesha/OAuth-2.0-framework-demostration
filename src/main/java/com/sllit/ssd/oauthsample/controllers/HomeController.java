@@ -14,9 +14,7 @@ import javax.servlet.http.HttpServletRequest;
 import java.io.IOException;
 import java.util.List;
 
-/**
- * Created by dinukshakandasamanage on 10/10/18.
- */
+
 @Controller
 public class HomeController {
 
